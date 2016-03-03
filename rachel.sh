@@ -1,4 +1,4 @@
-" this is edited"
+" this is edited by the skate king"
 for datafile in "$@"
 do
 echo ${datafile}
